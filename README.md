@@ -1,3 +1,3 @@
-👋 Hi, I’m @AaronTechnic.
+👋 Hi, I’m Aaron.
 
-I know how to code in Python. I'm also a Linux user.
+I know how basics of Python. I'm also a Linux user.
