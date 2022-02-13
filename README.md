@@ -1,3 +1,3 @@
 👋 Hi, I’m Aaron.
 
-I know how basics of Python. I'm also a Linux user.
+I know how how to write some Python.
